@@ -1,0 +1,3 @@
+[submodule "querybuilder-backend"]
+	path = querybuilder-backend
+	url = https://github.com/MIT-LCP/querybuilder-backend
